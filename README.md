@@ -12,9 +12,6 @@ A comprehensive **Railway Reservation System** built using **VB.NET** and **SQL 
 - [Screenshots](#screenshots)
 - [Database Schema](#database-schema)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
