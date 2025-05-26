@@ -66,7 +66,8 @@ This project can be used for learning database interaction, form design, and bas
 
 > You can insert real screenshots after uploading them to the GitHub repo.
 
-![Home Screen](screenshots/home.png)
+![Home Screen]![Screenshot 2025-04-15 144909](https://github.com/user-attachments/assets/fadbb7b3-e988-463f-8312-534b9cbeabf7)
+()
 *Main user dashboard*
 
 ![Admin Panel](screenshots/admin.png)
