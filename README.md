@@ -1,10 +1,14 @@
-# 🚆 Railway Reservation System
+#  Railway Reservation System
 
 A comprehensive **Railway Reservation System** built using **VB.NET** and **SQL Server**. This project simulates a real-world railway ticket booking system that allows users to book, cancel, and view train reservations, while providing administrators full control over train schedules and passenger management.
 
 ---
+##  Screenshot
 
-## 📌 Table of Contents
+![App Screenshot](screenshots/main-window.png)
+
+
+##  Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -18,7 +22,7 @@ A comprehensive **Railway Reservation System** built using **VB.NET** and **SQL 
 
 ---
 
-## 🧾 About the Project
+##  About the Project
 
 The **Railway Reservation System** is a Windows-based desktop application that enables users to:
 
@@ -31,29 +35,29 @@ This project can be used for learning database interaction, form design, and bas
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🧑‍💼 User Panel:
+###  User Panel:
 - Register and login
 - Search trains by source and destination
 - Book tickets
 - View and cancel bookings
 - View ticket status
 
-### 🛠️ Admin Panel:
+###  Admin Panel:
 - Add, edit, and delete trains
 - Manage routes and seat availability
 - View all bookings
 - Manage passengers
 
-### 🧾 Other Functionalities:
+### Other Functionalities:
 - Automatic fare calculation
 - Real-time seat availability
 - Role-based access control
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Frontend**: VB.NET (Windows Forms)
 - **Backend**: SQL Server
@@ -62,7 +66,7 @@ This project can be used for learning database interaction, form design, and bas
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 > You can insert real screenshots after uploading them to the GitHub repo.
 
@@ -74,7 +78,7 @@ This project can be used for learning database interaction, form design, and bas
 
 ---
 
-## 🗂️ Database Schema
+##  Database Schema
 
 **Main Tables:**
 - `Users`: Stores login credentials and user details
@@ -87,7 +91,7 @@ You’ll find the database script in the `/DatabaseScripts` folder.
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
