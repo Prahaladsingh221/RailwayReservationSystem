@@ -3,11 +3,6 @@
 A comprehensive **Railway Reservation System** built using **VB.NET** and **SQL Server**. This project simulates a real-world railway ticket booking system that allows users to book, cancel, and view train reservations, while providing administrators full control over train schedules and passenger management.
 
 ---
-##  Screenshot
-
-![App Screenshot](![Uploading Screenshot 2025-04-15 144909.png…]()
-)
-
 
 ##  Table of Contents
 
